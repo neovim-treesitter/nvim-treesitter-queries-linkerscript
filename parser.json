@@ -1,7 +1,7 @@
 {
-  "parser_version": "f99011a3554213b654985a4b0a65b3b032ec4621",
   "location": null,
-  "semver": false,
+  "lang": "linkerscript",
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-linkerscript",
-  "lang": "linkerscript"
+  "semver": false,
+  "parser_version": "f99011a3554213b654985a4b0a65b3b032ec4621"
 }
